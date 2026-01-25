@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devendra-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="devendra-kumar" /> </p>
 
-- 🔭 I’m currently working on [Free Submissionon](freesubmissionon.in)
+- 🔭 I’m currently working on [Free Submissionon](https://freesubmissionon.in)
 
-- 👨‍💻 All of my projects are available at [freesubmissionon.in](freesubmissionon.in)
+- 👨‍💻 All of my projects are available at [https://freesubmissionon.in](https://freesubmissionon.in)
 
 - 📝 I regularly write articles on [https://devendrakumar5.blogspot.com/](https://devendrakumar5.blogspot.com/)
 
