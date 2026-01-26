@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/devendra kumar @devendraku12578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devendra kumar @devendraku12578" height="30" width="40" /></a>
+<a href="https://x.com/DevendraKu12578/status/1830284847904125319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devendra kumar @devendraku12578" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devendra kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devendra kumar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/16BnoFvpbz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devendra kumar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/devendrakumar9610?igsh=MmxkdXVkMGx1djlw
