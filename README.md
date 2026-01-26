@@ -20,10 +20,10 @@
 <p align="left">
 <a href="https://twitter.com/devendra kumar @devendraku12578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devendra kumar @devendraku12578" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devendra kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devendra kumar" height="30" width="40" /></a>
-<a href="https://fb.com/devendra kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devendra kumar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/16BnoFvpbz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devendra kumar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/devendrakumar9610?igsh=MmxkdXVkMGx1djlw
   " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devendra kumar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/devendra kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devendra kumar" height="30" width="40" /></a>
+<a href="https://youtube.com/@devendrakumar15942?si=MdDoHCYlsVQp7Jqh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devendra kumar" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/202001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="202001" height="30" width="40" /></a>
 </p>
 
