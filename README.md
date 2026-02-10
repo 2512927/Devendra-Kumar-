@@ -16,6 +16,7 @@
 
 - 📄 Know about my experiences [https://devendratools.blogspot.com/](https://devendratools.blogspot.com/)
 
+-  know about my experiences .https://privacypolicygenartor.blogspot.com/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/DevendraKu12578/status/1830284847904125319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devendra kumar @devendraku12578" height="30" width="40" /></a>
