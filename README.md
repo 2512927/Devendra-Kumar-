@@ -1,4 +1,4 @@
-[logo](ChatGPT Image Jun 25, 2026, 01_27_40 PM.png)
+[logo](https://github.com/2512927/Devendra-Kumar-)
 # Devendra-Kumar-
 <h1 align="center">Hi 👋, I'm Devendra Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
