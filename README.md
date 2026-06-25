@@ -1,4 +1,4 @@
-[logo](https://github.com/2512927/Devendra-Kumar-/blob/main/githubx200banner.png)
+[logo](https://github.com/2512927/Devendra-Kumar-/blob/efc973dea7ecdd32d2e04a232ac9ce75a9a66b85/ChatGPT%20Image%20Jun%2025%2C%202026%2C%2001_27_40%20PM.png)
 # Devendra-Kumar-
 <h1 align="center">Hi 👋, I'm Devendra Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
