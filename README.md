@@ -1,4 +1,4 @@
-1[logo](https://github.com/2512927/Devendra-Kumar-/blob/efc973dea7ecdd32d2e04a232ac9ce75a9a66b85.png)
+[image](1https://github.com/2512927/Devendra-Kumar-/blob/main/image.jpg)
 # Devendra-Kumar-
 <h1 align="center">Hi 👋, I'm Devendra Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
