@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Free submission](https://www.freesubmissionon.in/)
 
-- 🌱 I’m currently learning on [Devendr Free SEO TooL]( https://devendrafreeseotools.blogspot.com/)
+- 🌱 I’m currently learning on [Devendra Free SEO TooL]( https://devendrafreeseotools.blogspot.com/)
 
 - 👯 I’m looking to collaborate on [Free seo tools](https://devendratools.blogspot.com/)
 
